@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="97550b06-ddb6-48f6-a49d-eea7da1972f9" name="test" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="C:\Users\xupeng02\Documents\GitHub\testupload" accessType="MOUNT" />
+        <fileTransfer port="0" mountedRoot="C:\inetpub\testdelploy" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
